@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BakeryProcessed
+  - NoSound
+  - BgBlack
+  - hongqizhi
+  - lanqizhi
+  - caiqi
+  - BakeTemplate
+  - caiqi_g_
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Map
+  - UIHide
+  - UIFade
+  - 
+  - ShadowCaster
+  - ShadowRecieve
+  - Charactor
+  - Sky
+  - ShadowExclude
+  - UIModel
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: par
+    uniqueID: 1714285163
+    locked: 0

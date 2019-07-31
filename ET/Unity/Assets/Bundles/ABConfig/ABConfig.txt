@@ -1,0 +1,144 @@
+{
+    "ListABRelation": [
+        {
+            "TypeRes": "UnityEngine.TextAsset",
+            "abName": "abconfig.unity3d",
+            "assetName": "ABConfig"
+        },
+        {
+            "TypeRes": "UnityEngine.GameObject",
+            "abName": "code.unity3d",
+            "assetName": "Code"
+        },
+        {
+            "TypeRes": "UnityEngine.TextAsset",
+            "abName": "code.unity3d",
+            "assetName": "Hotfix.dll"
+        },
+        {
+            "TypeRes": "UnityEngine.TextAsset",
+            "abName": "code.unity3d",
+            "assetName": "Hotfix.pdb"
+        },
+        {
+            "TypeRes": "UnityEngine.Shader",
+            "abName": "commonforder/uieffect.unity3d",
+            "assetName": "MaskParticle"
+        },
+        {
+            "TypeRes": "UnityEngine.Material",
+            "abName": "commonforder/uieffect.unity3d",
+            "assetName": "MaskUI"
+        },
+        {
+            "TypeRes": "UnityEngine.Shader",
+            "abName": "commonforder/uieffect.unity3d",
+            "assetName": "MaskUI"
+        },
+        {
+            "TypeRes": "UnityEngine.Shader",
+            "abName": "commonforder/uieffect.unity3d",
+            "assetName": "ParticleAddStencil"
+        },
+        {
+            "TypeRes": "UnityEngine.Shader",
+            "abName": "commonforder/uieffect.unity3d",
+            "assetName": "ParticleAlphaBlendMask"
+        },
+        {
+            "TypeRes": "UnityEngine.GameObject",
+            "abName": "feed.unity3d",
+            "assetName": "feed"
+        },
+        {
+            "TypeRes": "UnityEngine.Font",
+            "abName": "fonts.unity3d",
+            "assetName": "DINNeuzeitGroteskStd-Light"
+        },
+        {
+            "TypeRes": "UnityEngine.Font",
+            "abName": "fonts.unity3d",
+            "assetName": "EkMukta-Regular"
+        },
+        {
+            "TypeRes": "UnityEngine.Font",
+            "abName": "fonts.unity3d",
+            "assetName": "FZLTHK--GBK1-0"
+        },
+        {
+            "TypeRes": "UnityEngine.Font",
+            "abName": "fonts.unity3d",
+            "assetName": "FZLTZCHK--GBK1-0"
+        },
+        {
+            "TypeRes": "UnityEngine.Font",
+            "abName": "fonts.unity3d",
+            "assetName": "FZZZHUNHJW--GB1-0"
+        },
+        {
+            "TypeRes": "UnityEngine.Texture2D",
+            "abName": "homeui.unity3d",
+            "assetName": "tabSel"
+        },
+        {
+            "TypeRes": "UnityEngine.Sprite",
+            "abName": "homeui.unity3d",
+            "assetName": "tabSel"
+        },
+        {
+            "TypeRes": "UnityEngine.Texture2D",
+            "abName": "icon.unity3d",
+            "assetName": "ArrowUp1"
+        },
+        {
+            "TypeRes": "UnityEngine.Sprite",
+            "abName": "icon.unity3d",
+            "assetName": "ArrowUp1"
+        },
+        {
+            "TypeRes": "UnityEngine.GameObject",
+            "abName": "musiclist.unity3d",
+            "assetName": "MusicList"
+        },
+        {
+            "TypeRes": "UnityEngine.GameObject",
+            "abName": "soundlist2d.unity3d",
+            "assetName": "SoundList2D"
+        },
+        {
+            "TypeRes": "UnityEngine.GameObject",
+            "abName": "soundlist3d.unity3d",
+            "assetName": "SoundList3D"
+        },
+        {
+            "TypeRes": "UnityEngine.TextAsset",
+            "abName": "tabtoydata.unity3d",
+            "assetName": "tabtoyData"
+        },
+        {
+            "TypeRes": "UnityEngine.GameObject",
+            "abName": "ui/uieventmask.unity3d",
+            "assetName": "UIEventMask"
+        },
+        {
+            "TypeRes": "UnityEngine.GameObject",
+            "abName": "ui/uiframeshow.unity3d",
+            "assetName": "UIFrameShow"
+        },
+        {
+            "TypeRes": "UnityEngine.GameObject",
+            "abName": "ui/uilogin.unity3d",
+            "assetName": "UILogin"
+        },
+        {
+            "TypeRes": "UnityEngine.GameObject",
+            "abName": "ui/uisceneloading.unity3d",
+            "assetName": "UISceneLoading"
+        },
+        {
+            "TypeRes": "UnityEngine.GameObject",
+            "abName": "ui/uiwait.unity3d",
+            "assetName": "UIWait"
+        }
+    ]
+}

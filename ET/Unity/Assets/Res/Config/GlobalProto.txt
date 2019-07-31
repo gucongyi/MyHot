@@ -1,0 +1,9 @@
+{
+    "VersionUploadSelfResUrl":"http://192.168.10.82:8080/OutNet/SelfResVersion.txt",
+    "VersionUploadSelfResUrl_InnerNet":"http://192.168.10.82:8080/InnerNet/SelfResVersion.txt",
+    "VersionCodeOuter":"http://192.168.10.82:8080/OutNet/VersionCode.txt",
+    "VersionCodeInner":"http://192.168.10.82:8080/InnerNet/VersionCode.txt",
+    "AssetBundleServerUrl":"http://192.168.10.82:8080/OutNet/resource/",
+    "AssetBundleServerUrl_InnerNet":"http://192.168.10.82:8080/InnerNet/resource/",
+    "Address":"127.0.0.1:10002"
+}

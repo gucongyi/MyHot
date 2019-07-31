@@ -1,0 +1,30 @@
+﻿using System;
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class ClickHorseMono : MonoBehaviour {
+    public long Id;
+    public Action<long> OnHorseClick;
+	// Use this for initialization
+	void Start () {
+		
+	}
+	
+	// Update is called once per frame
+	void Update () {
+		
+	}
+    void OnMouseDown()
+    {
+        
+        //ZLog.Info("点击马");
+    }
+
+    private void OnMouseUpAsButton()
+    {
+        OnHorseClick?.Invoke(Id);
+        //print(Id);
+    }
+
+}
